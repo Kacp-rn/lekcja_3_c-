@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f38f0c-83c9-40e9-ac0a-4af860a39e3a" name="Changes" comment="" />
+    <list default="true" id="f0f38f0c-83c9-40e9-ac0a-4af860a39e3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lekcja_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lekcja_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lekcja_3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lekcja_3/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kacp-rn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kacp-rn/lekcja_3_c-",
+    "accountId": "902beea1-509d-4bd5-9383-b0ea35622b37"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d9c64aab9d8b40a282bc7a5d3b3f5ddae26400/06/395a3211/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d9c64aab9d8b40a282bc7a5d3b3f5ddae26400/95/553b2bbe/ThrowHelpers.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -77,8 +93,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759143708522</updated>
-      <workItem from="1759143712841" duration="1469000" />
+      <workItem from="1759143712841" duration="2252000" />
     </task>
+    <task id="LOCAL-00001" summary="save">
+      <option name="closed" value="true" />
+      <created>1759138268535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759138268535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +113,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="save" />
+    <option name="LAST_COMMIT_MESSAGE" value="save" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

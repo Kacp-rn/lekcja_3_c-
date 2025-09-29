@@ -23,16 +23,22 @@ class Program
         {
             Console.Write($"{tab[1,i]}, ");
         }
-            Console.WriteLine();
-            
-
-        int suma_1 = tab[0,0] + tab[1,0];
-        int suma_2 = tab[0,1] + tab[1,1];
-        int suma_3 = tab[0,2] + tab[1,2];
+        Console.WriteLine();
         
-        Console.WriteLine($"{suma_1}");
-        Console.WriteLine($"{suma_2}");
-        Console.WriteLine($"{suma_3}");
+        for (int j = 0; j <2; j++)
+        {
+            int suma = 0; 
+            for (int i = 0; i < 3; i++)
+            {
+                suma += tab[j, i];
+            }
+            Console.WriteLine($"suma wiersza {j}: {suma};");
+        }
+            
+            
+        
+        
+        
 
 
 
