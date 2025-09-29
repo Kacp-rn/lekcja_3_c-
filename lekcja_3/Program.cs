@@ -25,6 +25,15 @@ class Program
         }
         Console.WriteLine();
         
+        for (int j = 0; j <3; j++)
+        {
+            int zmienna = 0; 
+            
+                zmienna = tab[0, j];
+                tab[0, j] = tab[1, j];
+                tab[1, j] = zmienna;
+        }
+        
         for (int j = 0; j <2; j++)
         {
             int suma = 0; 
@@ -32,8 +41,9 @@ class Program
             {
                 suma += tab[j, i];
             }
-            Console.WriteLine($"suma wiersza {j}: {suma};");
+            Console.WriteLine($"suma wiersza {j + 1}: {suma};");
         }
+        
             
             
         
